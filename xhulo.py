@@ -44,7 +44,9 @@ class Logger:
     def Console():
         os.system('cls')
         text = """
-                      xhulo (dont-skid)
+                      xhulo (anti-skid)
+                                                                                                """
+        
         faded = ''
         red = 40
         for line in text.splitlines():
