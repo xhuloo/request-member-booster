@@ -8,5 +8,5 @@
 
 
 # Need help setting it up
-- Discord ; movelook#0001
+- Discord ; xhulo#0001
 - Telegram ; https://t.me/xhuloooo
